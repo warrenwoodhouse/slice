@@ -1,0 +1,70 @@
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<!-- WebSlice -->
+<head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>
+	Featured on Warren Woodhouse
+</title>
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/style.css" />
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="https://warrenwoodhouse.blogspot.com/slices/warrenwoodhouse" id="aspnetForm">
+ 
+    <div>
+        
+    <div id="warrenwoodhouse_category_slice" class="hslice">
+        <div class="entry-title" style="display:none;">Featured on Warren Woodhouse</div>
+        <div class="entry-content warrenslice">
+            <h1><a href="https://warrenwoodhouse.blogspot.com/" target="_blank"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjalVHyUc0hu4m7b95WizIs_0yt1Un5Ccl3jdE1Bl_h-06zGqKFcxXA8hDR1z51uzA7tckz7oCdB6GI34Fd4vPNsQoMC80w5BoKFnWSMWir14l3gDT4z9xKijiO4pOKDMYULCW_1Lm1YvY3SbuCecTOWLFpJXrUiwejmcLmQk5dr-r0OplXGnWlkgv3KUs=s760" border="0" alt="Warren Woodhouse" title="Warren Woodhouse"></a></h1>
+            
+                    <div class="personbox">
+                        <img src="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/fw-profile-image-6media.png" border="0" title="" alt="" width="37px" height="37px">
+                        <a target="_blank" href="https://warrenwoodhouse.blogspot.com/6media">6 Media</a><br>
+                    </div>
+                
+                    <hr>
+                    <div class="personbox">
+                        <img src="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/fw-profile-image-wixie.png" border="0" title="" alt="" width="37px" height="37px">
+                        <a target="_blank" href="https://warrenwoodhouse.blogspot.com/wixie">Wixie</a><br>
+                    </div>
+                
+                    <hr>
+                    <div class="personbox">
+                        <img src="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/fw-profile-image-gotgames.png" border="0" title="" alt="" width="37px" height="37px">
+                        <a target="_blank" href="https://warrenwoodhouse.blogspot.com/games">GotGames Interactive</a><br>
+                    </div>
+                
+                    <hr>
+                    <div class="personbox">
+                        <img src="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/fw-profile-image-woodhouseproductions.JPG" border="0" title="" alt="" width="37px" height="37px">
+                        <a target="_blank" href="https://warrenwoodhouse.blogspot.com/woodhouseproductions">Woodhouse Productions</a><br>
+                    </div>
+ 
+                    <hr>
+                    <div class="personbox">
+                        <img src="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/fw-profile-image-798.jpg" border="0" title="" alt="" width="37px" height="37px">
+                        <a target="_blank" href="https://warrenwoodhouse.blogspot.com/798">798</a><br>
+                    </div>
+                
+                    <hr>
+                    <div class="personbox">
+                        <img src="https://raw.githubusercontent.com/warrenwoodhouse/slice/main/fw-profile-image.jpg" border="0" title="" alt="" width="37px" height="37px">
+                        <a target="_blank" href="https://warrenwoodhouse.blogspot.com/">Warren Woodhouse</a><br>
+                    </div>
+        </div>
+    </div>      
+ 
+    </div>
+    <script type="text/javascript">
+        var links = document.getElementsByTagName('a');
+        for (var i = 0; i < links.length; i++) {
+            var link = links[i];
+            link.target = '_blank';
+        }
+    </script>
+    </form>
+</body>
+</html>
+```
